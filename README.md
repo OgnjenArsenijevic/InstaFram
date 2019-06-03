@@ -1,2 +1,1 @@
 # InstaFram
-s
