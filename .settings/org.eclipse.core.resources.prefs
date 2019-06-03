@@ -1,0 +1,12 @@
+eclipse.preferences.version=1
+encoding//src/actions/AuthorProjectAction.java=UTF-8
+encoding//src/actions/ExitProjectAction.java=UTF-8
+encoding//src/actions/OpenProjectAction.java=UTF-8
+encoding//src/actions/SaveAsProjectAction.java=UTF-8
+encoding//src/actions/SaveProjectAction.java=UTF-8
+encoding//src/app/Main.java=UTF-8
+encoding//src/controller/KeyController.java=UTF-8
+encoding//src/controller/MouseController.java=UTF-8
+encoding//src/gui/Frame1.java=UTF-8
+encoding//src/gui/PanelRB.java=UTF-8
+encoding//src/view/NodeTreeEditor.java=UTF-8
